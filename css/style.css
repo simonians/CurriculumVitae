@@ -1,0 +1,52 @@
+body {
+    font-family: Calibri, Arial, Helvetica, sans-serif;
+}
+/* Aca va el header */
+header {
+    background-color: #dddddd;
+}
+h1 {
+    background-color: #BFBFBF;
+    color: #1f497d;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    word-spacing: 40px;
+}
+.imgBatman {
+    margin:10px auto;
+	display:block;
+}
+
+/* Aca va el main */
+main {
+    letter-spacing: 0.2px;
+    text-transform: uppercase;
+    word-spacing: 2px;
+    line-height: 23px;
+}
+h2 {
+    background-color: #BFBFBF;
+    color: #9E3C19;
+    letter-spacing: 12px;
+    font-size: 18px;
+}
+
+span {
+    font-weight: 600;
+    font-style: italic;
+}
+
+footer{
+    background-color: #1F497D;
+    color: white;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+p>a>img { 
+    margin: 5px;
+    width: 20px;
+    height: 20px;
+}
